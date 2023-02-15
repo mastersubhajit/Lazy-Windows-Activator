@@ -11547,11 +11547,11 @@ Add-Type -Language CSharp -TypeDefinition @"
 
 : ===========================================================================================================================
 :  This script is a part of 'Microsoft Activation Scripts'
-:  Maintained by @WindowsAddict
-:  Homepage - https://www.nsaneforums.com/topic/316668--/
+:  Maintained by @mastersubhajit
+:  Homepage - https://www.mastersubhajit.com/
 
-:  P.S. I (@WindowsAddict) didn't help in the development of HWID/KMS38 Activation in any way, I only manage batch script 
-:  tool which is based on the above mentioned Original Authors activation methods.
+:  P.S. I (@mastersubhajit) didn't help in the development of HWID/KMS38 Activation in any way, I only manage batch script 
+:  tool which is based on the above mentioned Original Author's activation methods.
 : ===========================================================================================================================
 
 ::========================================================================================================================================
@@ -12112,16 +12112,16 @@ RunAs=CreateObject("Shell.Application").ShellExecute("cmd.exe","/c set ?=y&call 
 
 : ==========================================================================
 :  This script is a fork of 'KMS_VL_ALL - Smart Activation Script' Project
-:  The main project is maintained by @abbodi1406 (MDL)
-:  https://forums.mydigitallife.net/posts/838808
+:  The main project is maintained by @mastersubhajit
+:  https://mastersubhajit.com/
 
-:  Thanks to @RPO (MDL), for providing great help in making of this fork.
+:  Thanks to @RPO for providing great help in making of this project.
 : ==========================================================================
 
 : ==========================================================================
 :  This script is a part of 'Microsoft Activation Scripts'
-:  Maintained by @WindowsAddict
-:  Homepage - https://www.nsaneforums.com/topic/316668--/
+:  Maintained by @mastersubhajit
+:  Homepage - https://github.com/mastersubhajit/
 : ==========================================================================
 
 ::========================================================================================================================================
