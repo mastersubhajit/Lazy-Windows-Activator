@@ -1,4 +1,4 @@
-# Lazy Script for Windows 10 & Windows 11 Activation with HWID and KMS
+# Lazy Script for Windows Activation
 
 This script is designed to activate Windows 10 and Windows 11 operating systems using two different methods - HWID and KMS. HWID activation is a permanent activation method that binds the license key to the hardware of the device, while KMS activation uses a Key Management Server to activate the Windows license.
 
